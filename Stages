@@ -1,0 +1,23 @@
+2019 (v0.1.0 - Inception):
+
+Initial concept designs and planning of the command-based API architecture on paper.
+
+Writing the initial core code structure using Python and Ursina.
+
+Fundamentals of basic object creation commands.
+
+2020 - 2021 (v0.2.0 - Movement & Transforms):
+
+Adding functions for moving, rotating, and scaling entities.
+
+Establishing the basic loop system for processing keyboard inputs.
+
+2022 - 2023 (v0.3.0 - Scene & Stage Architecture):
+
+Adding structures that manage in-game level/scene transitions.
+
+Making the codebase more modular and simplified.
+
+2024 - Present (v1.0.0 - Public Release):
+
+Bringing the project to the open-source world and officially placing it on GitHub under the MIT license.
